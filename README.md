@@ -52,6 +52,4 @@ $ cat /smart/desktop/.ssh/id_rsa.pub
 5. git push
 6. done
 
-
-
-hello
+**see you guys !**
