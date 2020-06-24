@@ -45,12 +45,12 @@ $ cat /smart/desktop/.ssh/id_rsa.pub
 **step 6. copy all of the this to the key "board" of the add key page on github**
 **done**
 ## Git push or something tutorial
->1.first save all the files here
->2.type :git add .
->3.git status
->4.git commit -m"Added to my c vd learn repo" -m"some description"
->5.git push
->done
+*1.first save all the files here
+*2.type :git add .
+*3.git status
+*4.git commit -m"Added to my c vd learn repo" -m"some description"
+*5.git push
+*done
 
 
 
